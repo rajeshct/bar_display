@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
     }
 
     override fun onQueryTextSubmit(query: String?): Boolean {
+
         if (getCurrentFragment() is BarListingFragment) {
             (getCurrentFragment() as BarListingFragment).onSearchTextChanged(query)
         }
