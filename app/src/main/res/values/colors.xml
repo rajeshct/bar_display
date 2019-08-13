@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#2962FF</color>
+    <color name="colorAccent">#027bff</color>
+    <color name="colorDivider">#d3d3d3</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorYellow">#f44336</color>
+    <color name="colorGray">#d3d3d3</color>
+    <color name="colorWhite">#ffff</color>
+    <color name="colorBlackLight">#222222</color>
+    <color name="colorSkyBlue">#027bff</color>
+    <drawable name="white">#ffff</drawable>
+
+</resources>

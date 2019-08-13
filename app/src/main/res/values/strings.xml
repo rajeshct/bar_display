@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Beverage</string>
+    <string name="title_quantity">Alcohol Content: %f</string>
+    <string name="hint_search_wine">Search beverage you like</string>
+    <string name="label_ascending">Ascending</string>
+    <string name="label_filter_lager">Lager</string>
+    <string name="label_filter_ale">Ale</string>
+    <string name="label_filter_ipa">Ipa</string>
+    <string name="label_submit">Submit</string>
+    <string name="label_sort">Sort elements</string>
+    <string name="label_descending">Descending</string>
+    <string name="label_filter">Filter</string>
+    <string name="error_make_selection">Select at-least one choice</string>
+    <string name="text_no_record">No Beverage found.</string>
+    <string name="text_no_item_in_cart">No item in your cart.</string>
+    <string name="alert_item_added">Item added to cart</string>
+</resources>
